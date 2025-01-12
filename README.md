@@ -1,0 +1,1 @@
+A FPS GAME BUILD FROM SCRATCH FOR GAME PROGRAMMING COURSE ,, still under development and currently working on bettering the enemy asi attack and chase animations and script. it need some basic updates but it's a working basic game which i made in a night.
